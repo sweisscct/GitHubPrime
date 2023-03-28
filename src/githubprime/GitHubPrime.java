@@ -15,6 +15,7 @@ public class GitHubPrime {
      */
     public static void main(String[] args) {
         System.out.println("Goodbye Moon!");
+        System.out.println(5*9);
     }
     
 }
